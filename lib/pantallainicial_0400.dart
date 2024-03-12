@@ -9,7 +9,7 @@ class PantallaInicial_0400 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Pantalla Inicial Vega0400"),
+        title: Text("Card container Vega0400"),
         backgroundColor: Color(0xffdb359b),
       ),
       body: Center(
