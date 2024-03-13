@@ -1,4 +1,3 @@
-![image](https://github.com/VegaTapiaGemaKarina/p15-RutasV2-0400/assets/144732543/14eb5de9-28d0-48ba-86c2-c1b146846b50)# p13router0400
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
@@ -20,6 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Link de referencia 
 -https://github.com/flutter-teacher/container-widget/blob/main/main.dart
 -Gema Karina Vega Tapia: a.21308051280400@cbtis128.edu.mx
+
 - ## Resultado Act15 Rutas Diseño V2
 - ![image](https://github.com/VegaTapiaGemaKarina/p15-RutasV2-0400/assets/144732543/0bc19caf-c5c5-4fcd-9b26-8d0bc3b0ef4b)
 - ![image](https://github.com/VegaTapiaGemaKarina/p15-RutasV2-0400/assets/144732543/cbaee55b-308f-4bc1-81d1-09e87b5abc2f)
